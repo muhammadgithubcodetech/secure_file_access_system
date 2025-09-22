@@ -6,7 +6,7 @@ Built with a focus on **learning and simulation**, this project offers a safe, G
 
 ---
 
-## 🔐 Features
+## Features
 
 - **User Authentication**
   - Login and registration system with SHA-256 password hashing
@@ -31,7 +31,7 @@ Built with a focus on **learning and simulation**, this project offers a safe, G
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 secure_file_access_system/
@@ -49,7 +49,7 @@ secure_file_access_system/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -97,7 +97,7 @@ You can change the default data directory:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This project is **for educational and simulation purposes** only.
 - User credentials and logs are stored in plain JSON and text files.
@@ -106,7 +106,7 @@ You can change the default data directory:
 
 ---
 
-## 🧠 Learning Objectives
+## Learning Objectives
 
 This project is part of a broader personal learning path focused on:
 
@@ -117,13 +117,13 @@ This project is part of a broader personal learning path focused on:
 
 ---
 
-## 📜 License
+## License
 
 This project is open for educational use. Add a license (e.g. MIT) if you wish to share or reuse more broadly.
 
 ---
 
-## 👤 Author
+## Author
 
 **Muhammad Shah**  
 Cybersecurity undergrad | Aspiring pentester & researcher  
