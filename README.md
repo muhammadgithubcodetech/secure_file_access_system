@@ -18,7 +18,7 @@ Built with a focus on **learning and simulation**, this project offers a safe, G
 
 - **File Operations**
   - File creation, viewing, deletion
-  - XOR-based encryption for confidentiality
+  - Simple XOR-based encryption for confidentiality simulation
   - Automatic file directory setup
 
 - **Logging**
@@ -77,7 +77,7 @@ python3 gui.py
 
 ---
 
-## 🛠 Dependencies
+## Dependencies
 
 No third-party libraries required — everything uses Python’s standard library:
 
@@ -88,7 +88,7 @@ No third-party libraries required — everything uses Python’s standard librar
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 You can change the default data directory:
 
